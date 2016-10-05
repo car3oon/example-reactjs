@@ -7,8 +7,8 @@ export default class Footer extends React.Component {
     return (
         <footer className="container">
             <Row>
-                <Col sm={12}>
-                    To jest footer
+                <Col sm={24}>
+                    Copyright &copy; 2016 car3oon
                 </Col>
             </Row>
         </footer>
